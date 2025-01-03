@@ -23,7 +23,7 @@ Mouse Follower requires GSAP library to work.
 
 ```
 npm install gsap --save
-npm install Cursix --save
+npm install cursix --save
 ```
 
 Import GSAP and Mouse Follower and initialize it:
