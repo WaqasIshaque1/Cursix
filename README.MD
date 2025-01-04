@@ -1,7 +1,7 @@
 # Cursix
 
 <a href="https://www.npmjs.com/package/cursix"><img src="https://img.shields.io/npm/v/cursix?color=red" alt="NPM Version"></a>
-<a href="LICENCE"><img src="https://img.shields.io/github/license/Cuberto/cursix?color=orange" alt="Licence"></a>
+<a href="LICENCE"><img src="https://img.shields.io/github/license/WaqasIshaque1/cursix?color=orange" alt="Licence"></a>
 <img src="https://img.shields.io/bundlephobia/min/cursix?color=green" alt="Bundle file size">
 <img src="https://img.shields.io/bundlephobia/minzip/cursix?color=yellow&label=gzip%20size" alt="Bundle file size (gzip)">
 <a href="https://npmcharts.com/compare/cursix?minimal=true"><img src="https://img.shields.io/npm/dm/cursix?color=blue" alt="NPM Downloads"></a>
@@ -23,7 +23,7 @@ Cursix requires GSAP library to work.
 
 ```
 npm install gsap --save
-npm install cursix --save
+npm install Cursix --save
 ```
 
 Import GSAP and Cursix and initialize it:

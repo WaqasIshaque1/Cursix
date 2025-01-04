@@ -1,7 +1,4 @@
 /*!
- * Cuberto Cursix
- * https://cuberto.com/
- *
  * @version 1.1.2
  * @author Cuberto, Artem Dordzhiev (Draft)
  */
