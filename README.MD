@@ -23,7 +23,7 @@ Cursix requires GSAP library to work.
 
 ```
 npm install gsap --save
-npm install Cursix --save
+npm install cursix --save
 ```
 
 Import GSAP and Cursix and initialize it:
