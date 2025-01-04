@@ -1,5 +1,5 @@
 /*!
- * Cuberto Mouse Follower
+ * Cuberto Cursix
  * https://cuberto.com/
  *
  * @version 1.1.2

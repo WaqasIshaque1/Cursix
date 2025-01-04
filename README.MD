@@ -1,4 +1,4 @@
-# Cuberto Mouse Follower
+# Cursix
 
 <a href="https://www.npmjs.com/package/cursix"><img src="https://img.shields.io/npm/v/cursix?color=red" alt="NPM Version"></a>
 <a href="LICENCE"><img src="https://img.shields.io/github/license/Cuberto/cursix?color=orange" alt="Licence"></a>
@@ -19,14 +19,14 @@ GSAP v3 (https://greensock.com/gsap/)
 
 ### Install from NPM
 
-Mouse Follower requires GSAP library to work.
+Cursix requires GSAP library to work.
 
 ```
 npm install gsap --save
 npm install cursix --save
 ```
 
-Import GSAP and Mouse Follower and initialize it:
+Import GSAP and Cursix and initialize it:
 
 ```js
 import Cursix from "cursix";
@@ -45,7 +45,7 @@ Don't forget to import the cursor styles from `/src/scss/index.scss` into your m
 
 ### Use from CDN
 
-If you don't want to include Mouse Follower files in your project, you can use it from CDN.
+If you don't want to include Cursix files in your project, you can use it from CDN.
 
 The following files are available:
 
@@ -55,7 +55,7 @@ The following files are available:
 <script src="https://unpkg.com/cursix/dist/cursix.min.js"></script>
 ```
 
-Mouse Follower requires GSAP library to work. You need to import it before the Mouse Follower if you didn't have it before:
+Cursix requires GSAP library to work. You need to import it before the Cursix if you didn't have it before:
 
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
@@ -67,7 +67,7 @@ Mouse Follower requires GSAP library to work. You need to import it before the M
 
 ## Options
 
-You can configure Mouse Follower via options:
+You can configure Cursix via options:
 
 ```js
 const cursor = new Cursix({
@@ -423,7 +423,7 @@ cursor.destroy();
 
 ## Events
 
-Mouse Follower comes with a useful events you can listen. Events can be assigned in this way:
+Cursix comes with a useful events you can listen. Events can be assigned in this way:
 
 ```js
 const cursor = new Cursix();
