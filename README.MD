@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/bundlephobia/min/cursix?color=green" alt="Bundle file size">
 <img src="https://img.shields.io/bundlephobia/minzip/cursix?color=yellow&label=gzip%20size" alt="Bundle file size (gzip)">
 <a href="https://npmcharts.com/compare/cursix?minimal=true"><img src="https://img.shields.io/npm/dm/cursix?color=blue" alt="NPM Downloads"></a>
-<img src="https://img.shields.io/github/actions/workflow/status/WaqasIshaque1/cursix/build.yml?branch=dev" alt="GitHub Workflow Status">
 
 A powerful javascript library to create amazing and smooth effects for the mouse cursor on your website.
 
